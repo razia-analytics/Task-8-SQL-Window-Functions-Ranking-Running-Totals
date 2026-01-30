@@ -1,0 +1,41 @@
+Region,"Customer Name",Total_Sales,Rank_With_Gaps,Rank_No_Gaps
+Africa,"Aaron Hawkins",3817.26,1,1
+Africa,"Ritsa Hightower",3409.74,2,2
+Africa,"Rick Hansen",2832.96,3,3
+Caribbean,"Rick Reed",1696.64,1,1
+Central,"Eugene Barchas",3069.738,1,1
+Central,"Katherine Murray",2892.51,2,2
+Central,"Sue Ann Reed",2735.952,3,3
+Central,"Joel Eaton",2453.43,4,4
+Central,"Bill Shonely",2402.865,5,5
+Central,"Valerie Dominguez",2106.496,6,6
+Central,"Ben Peterman",1869.588,7,7
+"Central Asia","Anthony Jacobs",4626.15,1,1
+"Central Asia","Benjamin Patterson",1878.72,2,2
+East,"Darrin Martin",2799.96,1,1
+East,"Rick Hansen",2309.65,2,2
+EMEA,"Magdelene Morse",2616.96,1,1
+EMEA,"Ann Blume",1977.72,2,2
+North,"Laurel Beltran",5273.7,1,1
+North,"Patrick O'Donnell",4141.02,2,2
+North,"Naresj Patel",1713.84,3,3
+"North Asia","Peter Fuller",3701.52,1,1
+"North Asia","Jason Klamczynski",2754,2,2
+"North Asia","Phillip Breyer",1715.16,3,3
+Oceania,"Mick Brown",5244.84,1,1
+Oceania,"Craig Reiter",5175.171,2,2
+Oceania,"Justin Ritter",3709.395,3,3
+Oceania,"Dan Lawera",2875.095,4,4
+Oceania,"Jim Mitchum",2862.675,5,5
+Oceania,"Jim Sink",2565.594,6,6
+Oceania,"Dave Poirier",2526.93,7,7
+Oceania,"Toby Swindell",1822.08,8,8
+South,"Grant Thornton",7999.98,1,1
+South,"Patrick Jones",7958.58,2,2
+South,"Joseph Holt",4297.644,3,3
+South,"Greg Maxwell",4164.05,4,4
+South,"Thomas Boland",2249.91,5,5
+South,"Vicky Freymann",2221.8,6,6
+West,"Jane Waco",5083.96,1,1
+West,"Karen Ferguson",4158.912,2,2
+West,"Nora Preis",3610.848,3,3
